@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Ampero-Bold.ttf",
+      "sha1": "e75c6d60c4962342be675bcacff65e3f05d3255d"
+    },
+    {
+      "path": "src/assets/fonts/Ampero-BoldItalic.ttf",
+      "sha1": "7ff26c89b4b719925988ff7043974744b32eb42d"
+    },
+    {
+      "path": "src/assets/fonts/Ampero-Italic.ttf",
+      "sha1": "d69877eb5a4da286c24ea728b8ff2a9715aed6d0"
+    },
+    {
+      "path": "src/assets/fonts/Ampero-Light.ttf",
+      "sha1": "5b89086f062a055cd7ecc40bf61fa1ae9ca96af0"
+    },
+    {
+      "path": "src/assets/fonts/Ampero-LightItalic.ttf",
+      "sha1": "fbba04384747ce832329046b5cba0f12d88b6c88"
+    },
+    {
+      "path": "src/assets/fonts/Ampero-Regular.ttf",
+      "sha1": "cff4efd081ca3086bd6dc160ba0acbac8ec191ff"
+    },
+    {
+      "path": "src/assets/fonts/Ampero-SemiBold.ttf",
+      "sha1": "e89e994bf4d2132bca3bfde324712ad9e21a91f0"
+    },
+    {
+      "path": "src/assets/fonts/Ampero-SemiBoldItalic.ttf",
+      "sha1": "48547405794bcaf93033aeb1443401807eb98a5b"
+    }
+  ]
+}
